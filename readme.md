@@ -30,4 +30,3 @@ In this lab, we're going to combine finding basic math stats using pandas and us
 
 [Here is the starter code](./code/starter-code/w2-2.2-starter.ipynb).
 
-> [Solution Code](./code/solution-code/w2-2.2-solution.ipynb)
